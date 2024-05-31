@@ -1,0 +1,394 @@
+.introdiv{
+    margin-left: 170px;
+    background-color: white;
+    color: #f0f2f5;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 15px;
+    min-width: 380px;
+    max-height: 440px;
+    padding: 2%;
+    border-radius: 5%;
+    color: black;
+    margin-top: 30px;
+}
+
+.mainbiomenu{
+    width: 400px;
+    height: 1900px;
+    display: flex;
+}
+
+.intro, .Photo, .Friend, .LE{
+    font-size: 20px;
+}
+
+.intro{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.Photo{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.intropara{
+    font-size: 13px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Editbio{
+    width: 330px;
+    height: 35px;
+    background-color: #f0f2f5;
+    border-color: #f0f2f5;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.ProfileDetails{
+    font-size: 12px;
+    margin-top: 20px;
+    display: flex;
+    margin-left: 20px;
+    
+}
+
+.ppp{
+    margin-top: 5px;
+    margin-left: 10px;
+    opacity: .8;
+    
+}
+
+.DC{
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: 600;
+    color: #828282;
+}
+
+.Studies{
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.UOK{
+    margin-left: 35px;
+    margin-top: -20px;
+    opacity: .8;
+}
+
+
+.JO{
+    margin-top: 15px;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.BOJ{
+    margin-top: -20px;
+    margin-left: 35px;
+    opacity: .8;
+}
+
+.HMBJO{
+    margin-top: -14px;
+    margin-left: 153px;
+    display: flex;
+    font-weight: 600;
+    color: #828282;
+}
+
+.City{
+    
+    font-size: 12px;
+    margin-left: 55px;
+    margin-top: -20px;
+    display: flex;
+    opacity: .8;
+}
+
+.DOJ
+{
+    font-size: 12px;
+    margin-left: 55px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #828282;
+}
+
+.LiveLoca{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.City2{
+    font-size: 12px;
+    margin-left: 85px;
+    margin-top: -14px;
+    font-weight: 600;
+    color: #828282;
+}
+
+.DOJCA{
+    margin-left: 20px;
+    margin-top: 14px;
+}
+.Editbtn{
+    width: 330px;
+    height: 35px;
+    background-color: #f0f2f5;
+    border-color: #f0f2f5;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+.AF{
+    width: 330px;
+    height: 35px;
+    background-color: #f0f2f5;
+    border-color: #f0f2f5;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.Photodiv{
+    margin-left: -380px;
+    background-color: white;
+    color: #f0f2f5;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 490px;
+    max-width: 380px;
+    max-height: 440px;
+    padding: 2%;
+    border-radius: 5%;
+    color: black;
+    
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.SAP{
+    border-style: none;
+    border-color: white;
+    margin-left: 220px;
+    margin-top: -20px;
+    max-width: 300px;
+    background-color: white;
+    color: #1877F2;
+    font-weight: 600;
+}
+
+.PDiv{
+    margin-top: 25px;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.PDiv1, .PDiv2{
+    margin-top: 5px;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.PDiv2{
+    margin-bottom: 20px;
+}
+.PA1{
+    width: 105px;
+    height: 100px;
+    border-radius: 10px 0 0 0;
+}
+
+.PA2{
+    width: 105px;
+    height: 100px;
+}
+
+.PA3{
+    width: 105px;
+    height: 100px;
+    border-radius: 0 10px 0 0;
+}
+
+.PA4{
+    width: 105px;
+    height: 100px;
+}
+
+.PA5{
+    width: 105px;
+    height: 100px;
+}
+
+.PA6{
+    width: 105px;
+    height: 100px;
+}
+
+
+.PA7{
+    width: 105px;
+    height: 100px;
+    border-radius: 0 0 0 10px;
+}
+
+.PA8{
+    width: 105px;
+    height: 100px;
+}
+
+.PA9{
+    width: 105px;
+    height: 100px;
+    border-radius: 0 0 10px 0;
+}
+
+
+.Frienddiv{
+    margin-left: -380px;
+    background-color: white;
+    color: #f0f2f5;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 20px;
+    max-width: 380px;
+    max-height: 530px;
+    padding: 2%;
+    border-radius: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    object-fit: fill;
+    flex-wrap: nowrap;
+    padding-bottom: 20px;
+    
+}
+
+.Friend{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+.SAF{
+    border-style: none;
+    border-color: white;
+    margin-left: 260px;
+    margin-top: -20px;
+    max-width: 300px;
+    background-color: white;
+    color: #1877F2;
+    font-weight: 600;
+    display: flex;
+}
+
+.fQ{
+    color: #828282;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.HFB{
+    color: #1877F2;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.LEdiv{
+    margin-left: -380px;
+    background-color: white;
+    color: #f0f2f5;
+    text-decoration: none;
+    list-style: none;
+    max-width: 380px;
+    max-height: 300px;
+    padding: 2%;
+    border-radius: 5%;
+    color: black;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.LE{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.SAB{
+    border-style: none;
+    border-color: white;
+    margin-left: 290px;
+    margin-top: -20px;
+    max-width: 300px;
+    background-color: white;
+    color: #1877F2;
+    font-weight: 600;
+}
+
+.divLife1{
+    max-width: 45%;
+    border-style: groove;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
+
+.divLife2{
+    max-width: 45%;
+    border-style: groove;
+    justify-content: center;
+    text-align: center;
+    margin-top: -163px;
+    margin-left: 195px;
+    
+}
+
+.detailsLifediv{
+    font-size: 13px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.morelinks{
+    margin-top: 10px;
+    margin-left: -370px;
+    font-size: 12px;
+    opacity: .7;
+    font-weight: 500;
+    cursor: pointer;
+}
+.Playbtnbootm{
+    width: 13px;
+}

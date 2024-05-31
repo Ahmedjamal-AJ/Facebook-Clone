@@ -1,0 +1,141 @@
+.rightbar{
+    flex: 3.5;    
+}
+
+
+.birthdayText{
+    margin-left: 90px;
+    margin-top: -30px;
+    font-size: 13px;
+    color: darkgray;
+    font-weight: 500;
+    display: flex;
+    margin-right: 20px;
+}
+
+.birthdayImg{
+    margin-left: 46px;
+    display: flex;
+    
+}
+
+.hrforRightside{
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.RightsideAddIcon{
+    margin-left: 50px;
+    opacity: .3;
+    font-size: 2px;
+    margin-top: 20px;
+}
+
+
+.groupText{
+    margin-left: 80px;
+    margin-top: -20px;
+    font-size: 13px;
+    color: darkgray;
+    font-weight: 500;
+    display: flex;
+    margin-right: 20px;
+    
+}
+
+.sidedivTitle{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: darkgray;
+    font-weight: 500;
+    display: flex;
+    margin-bottom: 7px;
+}
+
+.sponserImg{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+    object-fit: cover;
+}
+
+.sponTitle{
+    font-size: 12px;
+    margin-top: -90px;
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 180px;
+    color: darkgray;
+    font-weight: 500;
+}
+
+.sponserURL{
+    font-size: 12px;
+    margin-top: -95px;
+    display: flex;
+    margin-bottom: 80px;
+    margin-left: 180px;
+    margin-right: 50px;
+    color: darkgray;
+    font-weight: 500;
+    opacity: .7;
+}
+
+.groupTitles{
+    margin-left: 80px;
+    margin-top: -30px;
+    font-size: 11px;
+    opacity: .7;
+    font-weight: 600;
+    display: flex;
+    margin-right: 20px;
+}
+
+.groupTitlesdetails{
+    margin-left: 80px;
+    /* margin-top: -20px; */
+    font-size: 10px;
+    color: darkgray;
+    font-weight: 500;
+    display: flex;
+    margin-right: 20px;
+}
+
+.OptionBarOne{
+    margin-left: 195px;
+    margin-top: -4px;
+    margin-right: 20px;
+}
+
+.OptionBartwo{
+    margin-left: 130px;
+    margin-top: -4px;
+    margin-right: 25px;
+}
+
+.OptionBarThree{
+    margin-left: 120px;
+    margin-top: -4px;
+    margin-right: 25px;
+}
+
+.OptionBarFour{
+    margin-left: 0px;
+    margin-top: -4px;
+}
+
+.searchIcon{
+    margin-left: 150px;
+    margin-top: -4px;
+    font-size: 5px;
+}
+.onlineFriendTitle{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}

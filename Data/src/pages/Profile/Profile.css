@@ -1,0 +1,19 @@
+.profile{
+    display: flex;
+    
+}
+
+.profileRight{
+    flex: 9;
+    
+}
+
+.profileRightBottom{
+    display: flex;
+    margin-left: -1270px;
+    margin-top: 725px;
+    background-color: #f0f2f5;
+}
+
+
+

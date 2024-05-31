@@ -1,0 +1,190 @@
+.post{
+    -webkit-box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.68); 
+    box-shadow: 0px 0px 16px -8px rgba(0,0,0,0.68);
+    width: 100%;
+    border-radius: 10px;
+    margin: 30px 0;
+    margin-left: 20px;
+}
+
+.postWrapper{
+    padding: 10px;
+}
+
+.postTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.postTopLeft{
+    display: flex;
+    align-items: center;
+}
+
+.postProfileImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 8px;
+}
+
+.postText{
+    font-family: cursive;
+    font-size: 14px;
+    opacity: .9;
+    
+}
+.postUsername{
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0 10px;
+    margin-top: -10px;
+}
+
+.postCenter{
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.postImg{
+    margin-top: 17px;
+    width: 100%;
+    max-height: 700px;
+    border-radius: 40px;
+    object-fit:fill;
+    padding: 10px;
+}
+.postDate{
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+.postBottomLeft{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: -10px;
+    margin-bottom: 16px;
+}
+
+.postLocation{
+    display: flex;
+    font-size: 11px;
+    margin-left: -480px;
+    /* margin-top: 32px; */
+}
+
+.likeIcon{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    /* margin-right: 5px; */
+}
+
+.HeartIcon{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    /* margin-right: 5px; */
+}
+
+.LolIcon{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.postLikeCounter{
+    font-size: 11px;
+    cursor: pointer;
+    
+}
+
+.postShareCounter{
+    margin-left: 490px;
+    font-size: 11px;
+    cursor: pointer;
+    display: flex;
+    margin-top: -13px;
+   
+}
+
+.postBottomRight{
+    margin-bottom: 10px;
+}
+.postCommentText{
+    margin-left: 410px;
+    font-size: 11px;
+    display: flex;
+    margin-top: -28px;
+    cursor: pointer;
+}
+
+.verTik{
+    margin-top: -10px;
+    margin-right: 5px;
+    margin-left: -5px;
+}
+
+.postButtons{
+    width: 100%;
+    display: flex;
+    padding: 4px;
+  
+}
+
+.likes {
+    width: 33.33%;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    margin-top: px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+
+.likes:hover{
+    background-color: whitesmoke;
+}
+.comments{
+    width: 33.33%;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    margin-top: px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+
+.comments:hover{
+    background-color: whitesmoke;
+}
+.shares{
+    width: 33.33%;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    margin-top: px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.shares:hover{
+    background-color: whitesmoke;
+}
